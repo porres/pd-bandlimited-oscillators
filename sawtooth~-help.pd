@@ -1,2 +1,0 @@
-#N canvas 727 35 559 474 10;
-#X obj 218 175 sawtooth~ 220;

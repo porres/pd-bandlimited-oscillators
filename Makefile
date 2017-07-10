@@ -10,7 +10,7 @@ lib.name = else
 # sources
 #########################################################################
 
-sawtooth~.class.sources := classes/sawtooth~.c
+sawtest~.class.sources := classes/sawtest~.c
 
 
 #########################################################################
